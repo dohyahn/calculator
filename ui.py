@@ -3,7 +3,6 @@
 from PyQt5.QtWidgets import (QApplication, QWidget, QPushButton, QVBoxLayout, QMessageBox, QPlainTextEdit, QHBoxLayout, QLineEdit, QComboBox)
 from PyQt5.QtGui import QIcon
 from PyQt5 import QtCore
-from scipy.fft import hfft
 
 
 class View(QWidget):
